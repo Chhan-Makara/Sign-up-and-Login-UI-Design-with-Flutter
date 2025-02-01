@@ -1,6 +1,8 @@
 # login_sign_up_flutter
 
-A new Flutter project.
+Sign up and Login UI design with Flutter. You can check code here.
+![photo_2025-02-01_10-11-08](https://github.com/user-attachments/assets/5838d72a-3fea-470d-8e87-5a3bf5223016)
+
 
 ## Getting Started
 
